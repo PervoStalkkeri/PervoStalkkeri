@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @PervoStalkkeri
 - 👀 I’m interested in games
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me; tommi.jalkanen@outlook.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+
 
 <!---
 PervoStalkkeri/PervoStalkkeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
